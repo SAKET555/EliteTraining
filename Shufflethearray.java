@@ -1,4 +1,4 @@
-class Solution {
+class Shufflethearray {
     public int[] shuffle(int[] nums, int n) {
         int[] newArr = new int[nums.length];
         int[] a = new int[nums.length/2];

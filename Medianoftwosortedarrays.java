@@ -2,7 +2,7 @@ import java.util.*;
 
 
 
-class Solution {
+class Medianoftwosortedarrays {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int[] result = new int[nums1.length+nums2.length];
         System.arraycopy(nums1,0,result,0,nums1.length);
