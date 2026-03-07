@@ -16,6 +16,4 @@ public class Pascal_1 {
         
         return list;
     }
-} {
-    
-}
+} 
